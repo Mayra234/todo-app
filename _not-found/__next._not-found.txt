@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[65507,["/todo-app/_next/static/chunks/b125e62dbd836579.js","/todo-app/_next/static/chunks/6bedceb8e66edfb8.js"],"default"]
+3:I[34846,["/todo-app/_next/static/chunks/b125e62dbd836579.js","/todo-app/_next/static/chunks/6bedceb8e66edfb8.js"],"default"]
+0:{"buildId":"tlOyiAarzU-h06QxEZBbJ","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
